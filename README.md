@@ -4,8 +4,8 @@
 
 - 🔭 I’m currently working on Repairing electronic things
 - 🌱 I’m currently learning Node.js
-- 👯 I’m looking to collaborate on Open source projects. Blockchain. IoT. AI
-- 🤔 I’m looking for help with JS frameworks
+- 👯 I’m looking to collaborate on Open source projects. Blockchain. 
+- 🤔 I’m looking for help with JS frameworks. IoT. AI.
 - 💬 Ask me about Maths
 - 📫 How to reach me: https://twitter.com/Moir137
 - ⚡ Some fact: The world wastes about 1 billion metric tons of food each year.
