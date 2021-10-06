@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Repairing electronic things
 - 🌱 I’m currently learning Node.js
-- 👯 I’m looking to collaborate on Open source projects. Blockchain
+- 👯 I’m looking to collaborate on Open source projects. Blockchain. IoT. AI
 - 🤔 I’m looking for help with JS frameworks
 - 💬 Ask me about Maths
 - 📫 How to reach me: https://twitter.com/Moir137
