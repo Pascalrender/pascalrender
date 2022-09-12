@@ -2,13 +2,13 @@
 
 
 
-- 🔭 I’m currently working on Repairing electronic things and web developer.
-- 🌱 I’m currently learning React, Spring, Flutter and Kotlin
-- 👯 I’m looking to collaborate on Open source projects. Web Development and Android Development. 
+- 🔭 I’m currently working on hardware technical support and freelance web developer.
+- 🌱 I’m currently learning React
+- 👯 I’m looking to collaborate on Open source projects. Web Development and Mobile Development. 
 - 🤔 I’m looking for help with Mobile development.
 - 💬 Ask me about hardware and web development.
-- 📫 How to reach me: https://twitter.com/Moir137
-- ⚡ Some fact: The world wastes about 1 billion metric tons of food each year.
+- 📫 How to reach me: https://twitter.com/1t4ch1__
+- ⚡ singularity is a bandwidth issue ⠓⠇⠇⠋⠗⠝⠙
 
 
 <!--
