@@ -5,12 +5,12 @@
 
 
 
-- 🔭 I’m currently working on hardware technical support and freelance web developer.
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on Open source projects. Web Development and Mobile Development. 
-- 🤔 I’m looking for help with Mobile development.
-- 💬 Ask me about hardware and web development.
-- 📫 How to reach me: https://twitter.com/1t4ch1__
+- 🔭 I’m currently working on Cybersecurity on Microsoft Azure.
+- 🌱 I’m currently learning Defender 365, Intune, Exchange.
+- 👯 I’m looking to collaborate on Open source projects. Cybersecurity projects. 
+- 🤔 I’m looking for help on cloud projects.
+- 💬 Ask me about hardware and azure.
+- 📫 How to reach me: beng4l4@proton.me
 - ⚡ singularity is a bandwidth issue ⠓⠇⠇⠋⠗⠝⠙
 
 
