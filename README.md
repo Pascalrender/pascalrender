@@ -5,11 +5,11 @@
 
 
 
-- 🔭 I’m currently working on Cybersecurity on Microsoft Azure.
-- 🌱 I’m currently learning Defender 365, Intune, Exchange.
-- 👯 I’m looking to collaborate on Open source projects. Cybersecurity projects. 
-- 🤔 I’m looking for help on cloud projects.
-- 💬 Ask me about hardware and azure.
+- 🔭 I’m currently working on infrastructure.
+- 🌱 I’m currently learning Networking and servers.
+- 👯 I’m looking to collaborate on Open source projects. infraestruture projects. 
+- 🤔 I'm interested in power electronics and welding.
+- 💬 Ask me about hardware and defender E3.
 - 📫 How to reach me: beng4l4@proton.me
 - ⚡ singularity is a bandwidth issue ⠓⠇⠇⠋⠗⠝⠙
 
