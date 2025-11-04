@@ -1,4 +1,7 @@
-![1_eYH4blmm6LwUPe33P2cz3Q](https://user-images.githubusercontent.com/27871013/189803595-205b329b-d0be-4fb4-bd05-6b29b382a271.JPG)
+
+<img width="400" height="400" alt="_M1T58VYt--400-3123381318" src="https://github.com/user-attachments/assets/7377aa8c-4636-46dc-be5f-a6f3189547db" />
+
+
 
 
 ### Hi there 👋
